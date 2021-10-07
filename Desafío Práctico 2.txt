@@ -1,0 +1,3 @@
+Ejercicio 1: https://snack.expo.dev/@killahvue/parcial2ejercicio1
+
+Ejercicio 2: https://github.com/refv-21/Parcial2Ejercicio2.git
